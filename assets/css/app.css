@@ -1,0 +1,164 @@
+	<style>
+
+		.container{
+			margin-top: 5px;
+		}
+		.jumbotron{
+			width: auto;
+			margin-left: auto;
+			margin-right: auto;
+			background-color:transparent !important;
+		}
+
+		.input-group{
+			width: 60%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		.remove_liStyle{
+			text-decoration:none;
+			color:black;
+			list-style: none;
+			cursor: hand;
+		}
+		.panel-results{
+			background: white;
+			box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2), 0 0 0 1px rgba(0,0,0,0.08);
+			border: 1px solid #ccc;
+    		border-top-color: #d9d9d9;
+    		width: 82%;
+		}
+
+		.container-search{
+			display: block;
+			position: relative;
+		}
+		.panel-search{
+  			position:absolute;
+  			left: 20%;
+  			width: 69%;
+		}
+		.line-result{
+			width: 50%;
+			margin-top:2px;
+			margin-left: 10px;
+			margin-bottom: 2px;
+
+		}
+		.img-circle{
+			width: 20%;
+		}
+
+		.texto{
+			margin-right: auto;
+		}
+
+		.titulo{
+			text-align: center;
+			color: black;
+		}
+
+		body{
+			background-color: #f5f5f5 !important;
+		}
+
+		.img-responsive{
+			margin-left: 5px;
+			margin-right: 3px;
+			margin-top:10px;
+			width: 25%;
+			margin-left: auto;
+			margin-right: auto;
+
+		}
+
+		.img-perfil{
+			border-radius: 50%;
+			box-shadow: 0 0 3px rgba(0,0,0,.5);
+		}
+
+		.link{
+			text-align: center;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+
+		}
+
+		.row{
+			margin-top: 100px;
+		}
+
+		.card{
+			box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2), 0 0 0 1px rgba(0,0,0,0.08);
+			border: 1px solid #ccc;
+			background: white;
+			border-radius: 5px;
+			margin-top: 10%;
+		}
+
+		.user-info{
+			margin-left: auto;
+			margin-right: auto;
+			width: 70%;
+		}
+
+		.user-image{
+			position: relative;
+			margin-top: -14%;
+		}
+
+		.table_use{
+			width: 60%;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: center;
+		}
+
+		tr{
+			width: 30%;
+		}
+
+		td{
+			border-top:none !important;
+			padding: 2px !important;
+		}
+
+		.line_table{
+			margin-left: auto;
+			margin-right: auto;
+			display:block;
+		}
+
+		.botão{
+			margin-bottom: 10px;
+			background: black;
+			color:white;
+			border:none;
+			border-radius: 2px;
+			width: 80%;
+			margin-left: 10%;
+
+		}
+
+		.div_buttom{
+			width: 50%;
+		    margin-left: auto;
+			margin-right: auto;
+			border-radius: 2px;
+
+		}
+
+		a:link{
+			text-decoration: none
+		}
+		a:hover {
+			text-decoration: none; 
+			color: #f00;
+			cursor: pointer;
+		}
+		a:active {
+			text-decoration: none
+		}
+	</style>
